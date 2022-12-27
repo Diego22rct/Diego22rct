@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diego22rct
-- 👀 I’m interested in Ctberscurity and Programing
+- 👀 I’m interested in Cyber Security and Programing
 - 🌱 I’m currently learning how to live IRL 
 
 <!---
