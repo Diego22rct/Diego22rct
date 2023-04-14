@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Diego22rct
-- 👀 I’m interested in Cyber Security and Programing
-- 🌱 I’m currently learning how to live IRL 
+- 😁 I'm studying software engineering.
+- 👀 I'm interested in Cyber Security and Programing.
+- 🌱 I'm currently learning how to live IRL. 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Diego22rct&theme=highcontrast&type=png"> 
