@@ -2,9 +2,9 @@
 - 👀 I’m interested in Cyber Security and Programing
 - 🌱 I’m currently learning how to live IRL 
 
-<div algin="center">
+<p algin="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diego22rct&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-</div>
+</p>
 
 
 ###TECHS I USE
