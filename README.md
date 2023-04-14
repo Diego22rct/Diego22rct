@@ -2,18 +2,18 @@
 - 👀 I’m interested in Cyber Security and Programing
 - 🌱 I’m currently learning how to live IRL 
 
-<p algin="center">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Diego22rct&theme=highcontrast&type=png"> 
 </p>
 
-<center>
-<img src="/res/text.png">
-</center>
+<p align="center">
+<img src="/res/text.png" heigth="80px">
+</p>
 
 
-<center>
+<p align="center">
 ### TECHS I USE
-</center>
+</p>
 
 
 <p align="center">
