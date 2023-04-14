@@ -6,7 +6,7 @@
 
 ### TECHS I USE
 <p align="center">
-    [<img src="https://skillicons.dev/icons?i=,git,javascript,github,,python,cpp" />](https://skillicons.dev/icons?i=nextjs,git,javascript,github,python,cpp,c,cs)
+    <img src="https://skillicons.dev/icons?i=nextjs,git,javascript,github,python,cpp,c,cs">
 </p>
 
 
