@@ -7,7 +7,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Diego22rct&theme=highcontrast&type=png"> 
 </p>
 
-<img algin="center" width="300" height="80" src="res/text.png">
+<img align="center" width="800" height="80" src="res/text.png">
 
 
 <p align="center">
