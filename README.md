@@ -7,12 +7,7 @@
 </p>
 
 <p align="center">
-<img src="/res/text.png" heigth="80px">
-</p>
-
-
-<p align="center">
-### TECHS I USE
+<img src="/res/text.png" heigth="80">
 </p>
 
 
