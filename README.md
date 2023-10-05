@@ -6,7 +6,7 @@
 ## Contribution on GitHub
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&type=svg"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&theme=dark&type=svg"> 
 </p>
 
 ## Technologies 
