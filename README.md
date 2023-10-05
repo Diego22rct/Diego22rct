@@ -6,7 +6,7 @@
 ## Contribution on GitHub
 
 <p align="center">
-<s src="https://github-readme-streak-stats.herokuapp.com?user=Diego22rct"> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Diego22rct"> 
 </p>
 
 
