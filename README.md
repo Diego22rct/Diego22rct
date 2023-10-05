@@ -6,9 +6,9 @@
 ## Contribution on GitHub
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&type=sv)"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&type=svg"> 
 </p>
-[https://github-readme-streak-stats.herokuapp.com?user=Diego22rct](https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&type=svg)
+
 ## Technologies 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,vscode,astro,nextjs,git,javascript,python,cpp,c,cs">
