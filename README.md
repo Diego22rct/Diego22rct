@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Diego22rct
-- 😁 I'm studying software engineering.
+- 😁 I'm studying software engineering @UPC
 - 👀 I'm interested in Cyber Security and Programing.
+- 💤 I used to like sleeping.
 - 🌱 I'm currently learning how to live IRL. 
 
 ## Contribution on GitHub
