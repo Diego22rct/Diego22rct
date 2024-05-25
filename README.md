@@ -2,6 +2,7 @@
 - 😁 I'm studying software engineering @UPC
 - 👀 I'm interested in Cyber Security and Programing.
 - 💤 I like to sleep all day.
+- 😵‍💫 I'm an anime taster by default.
 - 🌱 I'm currently learning how to live IRL. 
 
 ## Contribution on GitHub
