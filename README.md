@@ -19,6 +19,8 @@
 <img align="center" width="1100" height="160" src="res/text.png">
 
 
+[![](https://visitcount.itsvg.in/api?id=Diego22rct&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <!---
 Diego22rct/Diego22rct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
