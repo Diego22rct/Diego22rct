@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diego22rct
 - 😁 I'm studying software engineering @UPC
-- 👀 I'm interested in Cyber Security and Programing.
+- 👀 I'm interested in Cyber Security and Competitive Programing.
 - 💤 I like to sleep all day.
 - 😵‍💫 I'm an anime taster by default.
 - 🌱 I'm currently learning how to live IRL. 
