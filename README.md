@@ -13,7 +13,7 @@
 
 ## Technologies 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,astro,nextjs,angular,vue,git,javascript,python,cpp,cs,java">
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,astro,nextjs,angular,vue,git,javascript,python,cpp,cs,java,zig">
 </p>
 
 <img align="center" width="1100" height="160" src="res/text.png">
