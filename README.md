@@ -6,11 +6,11 @@
 - 🌱 I'm currently learning how to live IRL. 
 
 ## Contribution on GitHub
-
+<!--
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&theme=dark&type=svg">   
 </p>
-
+-->
 ![Diego22rct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego22rct&hide=contribs,prs)
 
 ## Technologies 
