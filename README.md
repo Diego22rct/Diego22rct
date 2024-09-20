@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,vscode,astro,nextjs,angular,vue,git,javascript,python,cpp,cs,java,zig">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego22rct&layout=donut)](https://github.com/Diego22rct/Diego22rct)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego22rct)](https://github.com/Diego22rct/Diego22rct)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diego22rct)](https://github.com/Diego22rct/Diego22rct)
 
 <img align="center" width="1100" height="160" src="res/text.png">
