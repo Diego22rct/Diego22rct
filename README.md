@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Diego22rct&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 - 👋 Hi, I’m @Diego22rct
 - 😁 I'm studying software engineering @UPC
 - 👀 I'm interested in Cyber Security and Competitive Programing.
@@ -8,8 +6,7 @@
 - 🌱 I'm currently learning how to live IRL. 
 
 ## Contribution on GitHub
-<p align="center">
-    
+ 
 ![Diego22rct's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&theme=dark&hide_border=false)
 ![Diego22rct's Stats](https://github-readme-stats.vercel.app/api?username=Diego22rct&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
@@ -23,3 +20,6 @@
     <img align="center" width="1100" height="160" src="res/text.png">
 </p>
 
+<p align="right">
+    <img src="https://visitcount.itsvg.in/api?id=Diego22rct&label=Profile%20Views&pretty=true">
+</p>
