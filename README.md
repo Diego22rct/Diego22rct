@@ -7,7 +7,6 @@
 
 ## Contribution on GitHub
  
-![Diego22rct's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diego22rct&theme=dark&hide_border=false)
 ![Diego22rct's Stats](https://github-readme-stats.vercel.app/api?username=Diego22rct&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ## Technologies 
