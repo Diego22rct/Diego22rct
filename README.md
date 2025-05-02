@@ -21,7 +21,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Diego22rct&icon=10&color=4)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=Diego22rct&color=green)
 <p align="center">
     <img align="center" width="1100" height="160" src="res/text.png">
 </p>
