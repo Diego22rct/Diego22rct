@@ -25,9 +25,6 @@
   
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Diego22rct&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Diego22rct&icon=10&color=4)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Diego22rct&color=green)
