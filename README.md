@@ -14,11 +14,15 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego22rct&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Diego22rct&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Diego22rct&langs_count=8&theme=dark)
+  
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Diego22rct&theme=dark&hide_border=false" />
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Diego22rct&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Diego22rct&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
+ 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego22rct&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
 </div>
 
 ## 🏆 GitHub Trophies
